@@ -1,11 +1,11 @@
-# Lab 5 Exercise 2
+# Lab 5 Exercise 5
 
 ## Output on Client-side
 
-![image](https://user-images.githubusercontent.com/74868126/115152468-ca5ae500-a0a3-11eb-9dda-6f5061410894.png)
+![image](https://user-images.githubusercontent.com/74868126/115152556-29b8f500-a0a4-11eb-995e-0478ada6579a.png)
 
 
 ## Output on Server-side
 
-![image](https://user-images.githubusercontent.com/74868126/115152480-d6df3d80-a0a3-11eb-9a61-1dbe4a2c4ecc.png)
+![image](https://user-images.githubusercontent.com/74868126/115152562-2f163f80-a0a4-11eb-914b-fd2c30ad0b3f.png)
 
